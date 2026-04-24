@@ -1,5 +1,5 @@
 # tower-unite-audio-splitter
-splits and Ogg into chunks and compresses them lol
+splits a Ogg into chunks and compresses them lol
 
 
 you need ffmpeg for this tool
